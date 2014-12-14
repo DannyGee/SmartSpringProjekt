@@ -1,12 +1,13 @@
 /**
- * 
+ * 					SmartSpringProjekt
+ * --------------------------------------------
+ *	class	 "WeatherAgent" 
+ *---------------------------------------------
+ *
  */
 package smartspring;
 
-/**
- * @author 
- *
- */
+
 public class WeatherAgent {
 	
 }

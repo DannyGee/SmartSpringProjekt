@@ -1,4 +1,8 @@
 /**
+ * 					SmartSpringProjekt
+ * --------------------------------------------
+ *	class	 "SensorAgent" 
+ *---------------------------------------------
  * 
  */
 package smartspring;
