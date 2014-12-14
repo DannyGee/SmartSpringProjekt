@@ -15,6 +15,7 @@
 
 package smartspring;
 
+import jade.core.AID;
 import jade.core.Agent;
 import jade.wrapper.*;
 
@@ -28,24 +29,20 @@ public class SetupAgent extends Agent {
 		
 	}	
 	private void setSensorAgent(){
-		
-		int nGuests = 2;
-		PlatformController container = getContainerController(); // get a container controller for creating new agents
-        // create N guest agents
-        try {
-            for (int i = 0;  i < nGuests;  i++) {
-                // create a new agent
-		String localName = "guest_"+i;
-		AgentController guest = container.createNewAgent(localName, "smartspring.SensorAgent", null);
-		guest.start();
-                //Agent guest = new GuestAgent();
-                //guest.doStart( "guest_" + i );
-            }
-        }
-        catch (Exception e) {
-            System.err.println( "Exception while adding guests: " + e );
-            e.printStackTrace();
-        }
+		 String name = "Alice" ;
+		 AID alice = new AID( name, AID.ISLOCALNAME );
+
+		 AgentContainer c = getContainerController();
+
+		         try {
+		             AgentController a = c.createNewAgent(name,"smartspring.SensorAgent", null);
+		             a.start();
+		             System.out.println(alice.getLocalName() + " Created");
+		         }catch (Exception e){
+		             e.printStackTrace();
+		         }
+
+
 	}
 	
 	
