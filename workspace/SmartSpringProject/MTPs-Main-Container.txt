@@ -1,1 +1,1 @@
-http://derKleine:7778/acc
+http://susi.localdomain:7778/acc
