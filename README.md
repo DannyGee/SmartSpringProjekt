@@ -6,11 +6,6 @@ SmartSpring Projekt
 ####Autoren: Jasmin, Sinead, Danny
 
 -------------------------------------------------
-__Aufgabe:__ 
------------------------
+__Aufgabe:__  ___Mithilfe des Java Agent Development Framework(Jade) soll ein Software entwickelt werden.___ 
 
-__Mithilfe des Java Agent Development Framework(Jade) soll ein Software entwickelt werden.__
-
-__Selbstgestecktes Ziel:__
-
-___Ein intelligentes Sprenklersystem___ 
+__Idee:__ ___Ein intelligentes Sprenklersystem___
