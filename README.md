@@ -1,11 +1,9 @@
 <img src="HTWLogo.jpg" alt="HTW-Berlin" align="right" style="width: 200px;" />
 #SmartSpring Projekt
-###Projektarbeit: KI und Wissensbasierte System
+###Projektarbeit: KI und Wissensbasierte Systeme
 
 ____________________________________________________
 ___Autoren: Jasmin, Sinead, Danny___
-
-
 
 + ####Aufgabe:  
 Mithilfe des Java Agent Development Framework(Jade) soll ein Software entwickelt werden.welche als Multi-Agenten-System ausgelegt sein soll und so autonom und "intelligent" wie möglich ihre Aufgaben erfüllen 
