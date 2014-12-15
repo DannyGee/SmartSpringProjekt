@@ -1,5 +1,5 @@
-#SmartSpring Projekt <img src="HTWLogo.jpg" alt="HTW-Berlin" align="right" style="width: 50px;"/>
-
+<img src="HTWLogo.jpg" alt="HTW-Berlin" align="right" style="width: 150px;"/>
+#SmartSpring Projekt
 ###Projektarbeit: KI und Wissensbasierte System
 
 ____________________________________________________
